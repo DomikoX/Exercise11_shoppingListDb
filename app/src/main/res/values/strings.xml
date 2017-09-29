@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Exercise11_shoppingListDb</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dialog_title">Add new item</string>
+    <string name="dialog_yes">Create</string>
+    <string name="dialog_cancel">cancel</string>
+    <string name="item">Item:</string>
+    <string name="cancel">Canceled</string>
+    <string name="actio_delete">Delete</string>
+    <string name="remove_item">Item removed: </string>
+    <string name="item_added">New item added: </string>
+    <string name="listener_implement_error">" must implement NewItemListener"</string>
+    <string name="delete">Delete</string>
+    <string name="total">Total: </string>
+</resources>
